@@ -1,0 +1,23 @@
+{
+  "name": "whatsapp-webjs",
+  "version": "1.0.0",
+  "description": "whats-web ;)&lt;xd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiderx14/whatsapp-web.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiderx14/whatsapp-web.js/issues"
+  },
+  "homepage": "https://github.com/spiderx14/whatsapp-web.js#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0"
+  }
+}
